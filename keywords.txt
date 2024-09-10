@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map MemoOutputPin
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MemoOutputPin	KEYWORD1	MemoOutputPin
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attach	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+On KEYWORD2
+Off KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ON  LITERAL1
+OFF   LITERAL1
