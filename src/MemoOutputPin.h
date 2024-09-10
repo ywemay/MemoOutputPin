@@ -3,6 +3,9 @@
 
 #include <Arduino.h>
 
+#define ON 255
+#define OFF 0
+
 class MemoOutputPin {
 public:
   MemoOutputPin();

@@ -1,9 +1,6 @@
 #include "MemoOutputPin.h"
 #include <EEPROM.h>
 
-#define ON 255
-#define OFF 0
-
 MemoOutputPin::MemoOutputPin() {}
 
 void MemoOutputPin::attach(int pin, int address) {
